@@ -272,3 +272,7 @@ Read FAQ in [docs/faq.md](./docs/faq.md)
 - packages/checkout-storefront: **http://localhost:3002**
 - apps/checkout: **http://localhost:3003**
 - packages/ui-kit storybook: **http://localhost:6006**
+
+# ignore
+
+force vercel build
